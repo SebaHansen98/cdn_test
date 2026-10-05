@@ -5,3 +5,9 @@
 body {
     margin: 0;
 }
+
+p {
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
